@@ -1,0 +1,162 @@
+#h1{
+  text-align: center;
+}
+#rasm1{
+  width: 33%;
+  border-radius: 15px;
+}
+
+#rasm2{
+  width: 33%;
+  border-radius: 15px;
+}
+
+#rasm3{
+  width: 33%;
+  border-radius: 15px;
+}
+#p1{
+  text-align: center;
+}
+
+#p2{
+  text-align:left;
+}
+
+#p3{
+  text-align: right;
+}
+
+#p4{
+  font-weight:bold
+}
+
+#p5{
+  font-weight: bold;
+  text-align: center;
+}
+
+#rasm4{
+  width: 40%;
+}
+
+#p6{
+  text-align: left;
+}
+
+#h2{
+  text-align: center;
+}
+
+#rasm5{
+  width: 19%;
+  border-radius: 50%;
+}
+
+#rasm6{
+  width: 19%;
+  border-radius: 50%;
+}
+
+#rasm7{
+  width: 19%;
+  border-radius: 50%;
+}
+
+#rasm8{
+  width: 19%;
+  border-radius: 50%;
+}
+
+#rasm9{
+  width: 19%;
+  border-radius: 50%;
+}
+
+#p7{
+  text-align: center;
+}
+
+#rasm10{
+  width: 50%;
+  border-radius: 15px;
+}
+
+#h3{
+  text-align: center;
+}
+
+#rasm11{
+  width: 33%;
+  border-radius: 70px;
+}
+
+#rasm12{
+  width: 33%;
+  border-radius: 70px;
+}
+
+#rasm13{
+  width: 33%;
+  border-radius: 70px;
+}
+
+#rasm14{
+  width: 33%;
+  border-radius: 15%;
+}
+
+#rasm15{
+  width: 33%;
+  border-radius: 15%;
+}
+
+#rasm16{
+  width: 33%;
+  border-radius: 15%;
+}
+
+#p8{
+  font-weight: bold;
+  text-align: center;
+}
+
+#p9{
+  text-align: center;
+}
+
+#p10{
+  text-align: center;
+}
+
+#p11{
+  text-align: center;
+}
+
+#p12{
+  text-align: center;
+  font-weight: bold;
+}
+
+#rasm17{
+  width: 33%;
+  border-radius: 15%;
+}
+
+#rasm18{
+  width: 33%;
+  border-radius: 15%;
+}
+
+#rasm19{
+  width: 33%;
+  border-radius: 15%;
+}
+
+td, th{
+  border: 1px solid;
+}
+table{
+  border-collapse: collapse;
+
+}

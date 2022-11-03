@@ -1,0 +1,29 @@
+#birinchi{
+  color: blue;
+}
+
+#ikkinchi{
+  color:darkslategrey;
+  text-align: center;
+}
+
+#uchinchi{
+  color: green;
+}
+
+#tortinchi{
+  color: cyan;
+}
+
+#beshinchi{
+  width: 500px;
+  border-radius: 50%;
+}
+
+#oltinchi{
+  width: 100px;
+}
+
+#h1 {
+  color: red;
+}

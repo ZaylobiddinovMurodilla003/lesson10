@@ -1,0 +1,26 @@
+th, td{
+  border: 2px solid ;
+  border-radius: 5px;
+}
+
+.table{
+  border-collapse: collapse;
+}
+
+.tr{
+  color: blue;
+}
+
+.th1{
+  border: 2px solid green;
+}
+.td1{
+  border:2px solid blue
+
+}
+.h1{
+  text-align: center;
+  color: blue;
+}
+
+

@@ -1,0 +1,164 @@
+/* .qora{
+  color: blue;
+  text-align: center;
+}
+.bold{
+  color: burlywood;
+  text-align: center;
+} */
+.h2{
+  text-align: center;
+}
+.rasm14{
+  width: 33%;
+  border-radius: 15px;
+
+}
+table{
+  border-collapse: collapse;
+  
+}
+td, th{
+  border: 1px solid;
+  text-align: center;
+}
+#h1{
+  text-align: center;
+}
+.rasm15{
+  border-radius: 15px;
+  width: 50%;
+}
+.rasm16{
+  width: 19%;
+  border-radius: 50%;
+
+}
+
+#p1{
+  text-align: center;
+}
+
+#p2{
+  text-align:left;
+}
+
+#p3{
+  text-align: right;
+}
+
+#p4{
+  font-weight:bold
+}
+
+#p5{
+  font-weight: bold;
+  text-align: center;
+}
+
+
+
+#p6{
+  text-align: left;
+}
+
+#h2{
+  text-align: center;
+}
+
+#rasm5{
+  width: 19%;
+  border-radius: 50%;
+}
+
+#rasm6{
+  width: 19%;
+  border-radius: 50%;
+}
+
+#rasm7{
+  width: 19%;
+  border-radius: 50%;
+}
+
+#rasm8{
+  width: 19%;
+  border-radius: 50%;
+}
+
+#rasm9{
+  width: 19%;
+  border-radius: 50%;
+}
+
+#p7{
+  text-align: center;
+}
+
+
+
+#h3{
+  text-align: center;
+}
+
+#rasm11{
+  width: 33%;
+  border-radius: 70px;
+}
+
+#rasm12{
+  width: 33%;
+  border-radius: 70px;
+}
+
+#rasm13{
+  width: 33%;
+  border-radius: 70px;
+}
+
+#rasm14{
+  width: 33%;
+  border-radius: 15%;
+}
+
+#rasm15{
+  width: 33%;
+  border-radius: 15%;
+}
+
+#rasm16{
+  width: 33%;
+  border-radius: 15%;
+}
+
+#p8{
+  font-weight: bold;
+  text-align: center;
+}
+
+#p9{
+  text-align: center;
+}
+
+#p10{
+  text-align: center;
+}
+
+#p11{
+  text-align: center;
+}
+
+#p12{
+  text-align: center;
+  font-weight: bold;
+}
+
+
+
+td, th{
+  border: 1px solid;
+}
+table{
+  border-collapse: collapse;
+
+}
